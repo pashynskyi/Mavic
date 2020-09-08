@@ -1,5 +1,5 @@
 ### Live Demo
 
-<!-- https://pashynskyi.github.io/ -->
+https://pashynskyi.github.io/mavic-demo
 
 
